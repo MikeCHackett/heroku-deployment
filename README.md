@@ -1,2 +1,2 @@
-# heroku-deployment
-App deployment exercise with Heroku
+# littletiers
+little tiers
